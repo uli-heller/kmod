@@ -1,10 +1,3 @@
-title=Neuer Kernel unter Ubuntu 12.04
-date=2015-10-04
-type=post
-tags=ubuntu
-status=published
-~~~~~~
-
 Inbetriebnahme neuer Kernel unter Ubuntu-12.04
 ==============================================
 
