@@ -1,0 +1,13 @@
+Source: kmod
+Section: admin
+Maintainer: Uli Heller <uli.heller@daemons-point.com>
+
+Package: kmod
+Depends: module-init-tools, ${misc:Depends}
+Architecture: all
+Priority: extra
+Description: Dummy package for installing newer kernels (like 4.2.x) under precise 
+  This is a dummy package in order to install recent kernels on ubuntu
+  precise (12.04). These kernels to have a dependency on kmod which is not
+  available for precise.
+
